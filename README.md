@@ -4,6 +4,7 @@ Create a program that will read the standard input line by line and will print l
 Sample:
 
 Input
+
 asdf
 fdas
 asds
@@ -12,8 +13,10 @@ dfaa
 aaaa
 bbbcc
 
+
 Output
 
 asds
 dfaa
 bbbcc
+
